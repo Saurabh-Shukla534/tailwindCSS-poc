@@ -7,6 +7,9 @@ This is a Micrsoft clone webpage built using HTML and Tailwind CSS. It aims to r
 * HTML5
 * Tailwind CSS v3.4
 
+## Live Demo
+[Tailwind CSS - POC](https://saurabh-shukla534.github.io/tailwindCSS-poc/)
+
 ## Steps to clone
 1. Clone the repository: git clone https://github.com/Saurabh-Shukla534/tailwindCSS-poc.git
 
